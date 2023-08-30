@@ -10,6 +10,8 @@ function test(){
   console.log('hello')
     console.log('testesgrethrtjh')
   console.log('hello')
+
+  console.log('im so sed')
 }
 
 test()
