@@ -8,6 +8,8 @@ function test(){
   console.log('hello')
     console.log('testesgrethrtjh')
   console.log('hello')
+    console.log('testesgrethrtjh')
+  console.log('hello')
 }
 
 test()
