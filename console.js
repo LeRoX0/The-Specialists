@@ -6,6 +6,10 @@ console.log('tests')
 function test(){
   console.log('testesgrethrtjh')
   console.log('hello')
+    console.log('testesgrethrtjh')
+  console.log('hello')
+    console.log('testesgrethrtjh')
+  console.log('hello')
 }
 
 test()
